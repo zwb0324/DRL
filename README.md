@@ -8,7 +8,9 @@ Fitting, predicting, and interpreting MD data using XGBoost.
 
 ## Requirements
 Python 3
+
 Windows, Linux, or macOS
+
 CPU or NVIDIA GPU
 
 ## usage
